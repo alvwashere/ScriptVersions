@@ -1,0 +1,5 @@
+{
+  "version": "2.0.6",
+  "changelog": "Added version checker, tweaked modify vehicle options in self menu.",
+  "coming_soon": "Framework Options, more Locale's and permanent fix for vehicle horns in modify vehicles."
+}
