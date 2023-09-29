@@ -1,0 +1,5 @@
+{
+  "version": "1.0.6",
+  "changelog": "Added the version checker and being able to charge players to repair a gun.",
+  "coming_soon": "Support for other inventory systems and a new UI."
+}
