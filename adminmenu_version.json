@@ -1,5 +1,5 @@
 {
-  "version": "2.0.6",
-  "changelog": "Added version checker, tweaked modify vehicle options in self menu.",
-  "coming_soon": "Framework Options, more Locale's and permanent fix for vehicle horns in modify vehicles."
+  "version": "2.0.7",
+  "changelog": "Updated locales, redone table functions, new Configs, updated kick & ban functions, updated modify vehicle backend.",
+  "coming_soon": "Framework options, stable release for queue, finalise custom locales, more languages to locales, more menu options, more exports and new noclip."
 }
