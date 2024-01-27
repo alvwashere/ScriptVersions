@@ -1,5 +1,5 @@
 {
-  "version": "1.0.8",
-  "changelog": "Added UI, Config.Notify as function, fixed some JS related problems.",
+  "version": "1.0.9",
+  "changelog": "Fatal script error fixed.",
   "coming_soon": "Support for other inventory systems, ox_target & ox_lib radial. Also finish script documentation."
 }
